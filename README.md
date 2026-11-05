@@ -1,4 +1,4 @@
-# Project-on-Diabetic-Retinopathy
+# Project-on-Diabetic-Retinopathy using Deep Learning 
 # Diabetic Retinopathy Detection
 
 A machine learning project that classifies retinal images to detect Diabetic Retinopathy (DR) using deep learning techniques. This repository provides the code, data references, and steps to build a fully functional model.
